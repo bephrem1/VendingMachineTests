@@ -3,6 +3,8 @@ JUnit Unit Testing Practice (TeamTreehouse Project)
 
 Instructor/Code: Craig Dennis 
 
+Explanation: A simple vending machine program used to practice unit testing on
+
 My Additions: I heavily commented the test classes with best practices I learned and
 discovered for running efficient unit tests using the JUnit framework
 
